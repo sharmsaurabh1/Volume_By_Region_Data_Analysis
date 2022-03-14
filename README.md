@@ -5,7 +5,7 @@ This Excel based data analytics project is helping the client in getting their v
 [Excel Raw data file](https://github.com/sharmsaurabh1/Volume_By_Region_Data_Analysis/blob/main/Excel%20for%20Analytics%20Project%20Series%20Source%20File.xlsx)
 
 ## Prerequisites
-Basic Knowledge of creating Tables, SUMIFS,CountIFs XLookup ,VLookup ,Pivot Tables, custom and conditional formatting in Excel
+Basic Knowledge of creating Tables, SUMIFS,CountIFs XLookup ,VLookup ,Pivot Tables, charts, custom and conditional formatting in Excel
 
 ## Version List
 Project is divided into 3 versions :
